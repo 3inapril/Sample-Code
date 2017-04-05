@@ -292,7 +292,3 @@ boxplot(Recall~Task*Valence,data=data.ex4) #graphical summary of means of the 6 
 attach(data.ex4)
 interaction.plot(Valence,Task,Recall)    #another way to graph the interaction
 detach(data.ex4)
-
-
-
-
