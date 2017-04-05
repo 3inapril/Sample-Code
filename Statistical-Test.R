@@ -293,3 +293,4 @@ attach(data.ex4)
 interaction.plot(Valence,Task,Recall)    #another way to graph the interaction
 detach(data.ex4)
 
+# make some change to test pull request and merge
