@@ -278,7 +278,6 @@ print(model.tables(aov.ex3,"means"),digits=3)
 boxplot(Recall~Valence,data=data.ex3)          #graphical output
 
 
-
 #' Two-Way Within Subject ANOVA
 datafilename="http://personality-project.org/r/datasets/R.appendix4.data"
 data.ex4=read.table(datafilename,header=T)   #read the data into a table
