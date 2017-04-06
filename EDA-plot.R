@@ -5,8 +5,8 @@ library(plyr)
 library(dplyr)
 options(stringsAsFactors = F)
 
-colors <-      c('#FA8072', '#4876FF',      '#00C5CD',     '#008B45',        '#B0171F',  
-                 '#FF8C00',      '#98FB98',   '#D02090')
+colors <- c('#FA8072', '#4876FF',      '#00C5CD',     '#008B45',        '#B0171F',  
+             '#FF8C00',      '#98FB98',   '#D02090')
 
 color_names <- c('salmon',  'royalblue 1' , 'turquoise 3', 'springgreen 3',  'indian red',  
                  'darkorange',   'palegreen', 'violetred')
